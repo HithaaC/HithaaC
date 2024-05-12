@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SugamKuber.SugamKuber">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HithaaC.HithaaC">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
