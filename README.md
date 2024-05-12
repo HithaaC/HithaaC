@@ -43,8 +43,8 @@
   <code><img title="Problem Solving" height="25" src="problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="html5.svg"></code>
   <code><img title="CSS" height="25" src="css.svg"></code>
-<!--   <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code> -->
+  <code><img title="SASS" height="25" src="go-original.svg"></code>
+<!--   <code><img title="npm" height="25" src="images/npm.svg"></code> -->
 <!--   <code><img title="Express" height="25" src="https://tinyurl.com/exprezzz"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
