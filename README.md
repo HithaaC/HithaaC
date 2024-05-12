@@ -60,7 +60,7 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/HithaaC/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=HithaaC&theme=iceberg&hide_border=true" alt="GitHub Streak" /></a>" alt="HithaaC" />
+      <img align="left" width=390 src="<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HithaaC&theme=react&border=61dafb&hide_border=true"/></a>" alt="HithaaC" />
     </a>
     <a href="https://github.com/HithaaC/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=HithaaC&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
