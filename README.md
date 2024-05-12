@@ -15,19 +15,19 @@
 </h5>
 <br>
 <p align="center">
-  Hi🙋🏻‍♂️, I'm Sugam Kuber, A Computers and Tech Enthusiast from South India
+  Hey, I'm Hitha C, A Web dev and designer from India.
   <br>
-  🎓 I'm currently studying Computer Science at Vellore Institute of Technology, Vellore
+  🎓 I'm currently studying at ACS College of Engineering, affiliated to VTU.
   <br>
-   👨🏻‍💻 I'm a Web Dev Intern at Redgates
+   👨🏻‍💻 I'm a Web Dev Intern at Techplement.
   <br>
-   Member of CodeChef, IET and VItrendz
+   Member of IEEE Student Branch ACS.
   <br>
   💻 I love making stuffs on web/web3 and anything about it
   <br>
   📚 I’m currently learning the new Tools and Tech used for web3.0 dev
   <br>
-  📫reach me at <a href="mailto: sugam.bkuber2021@vitstudent.ac.in">sugam.bkuber2021@vitstudent.ac.in</a>
+  📫reach me at <a href="mailto: hithaac1@gmail.com">hithaac1@gmail.com</a>
   <br> 
   check out <a href="https://sugamkuber.me">sugamkuber.me</a>
 </p>
@@ -60,7 +60,7 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/SugamKuber/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=SugamKuber&theme=react&border=61dafb&hide_border=true" alt="SugamKuber" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=SugamKuber&theme=react&border=61dafb&hide_border=true" alt="HithaaC" />
     </a>
     <a href="https://github.com/SugamKuber/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=SugamKuber&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
