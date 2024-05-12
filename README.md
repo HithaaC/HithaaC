@@ -11,7 +11,7 @@
     <a href="www.linkedin.com/in/hitha-c-web-developer" title="LinkedIn Profile"><img width="22" src="linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/profile/hithaaaccceee10" title="HackerRank Profile"><img width="22" src="hackerrank.png"> HackerRank</a></code>
   <code></code>
-  <code><a href="https://www.instagram.com/hithaaa.__/" title="Instagram Profile"><img width="22" src="instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/hithaaa.___/" title="Instagram Profile"><img width="22" src="instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
